@@ -11,4 +11,3 @@ x = input('Enter a name: ')
 for index, item in enumerate(ranking):
     if item == x:
         print(index + 1)
-import time
