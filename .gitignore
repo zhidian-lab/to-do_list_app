@@ -1057,3 +1057,5 @@ env/Scripts/pythonw.exe
 questions.json
 questions2.json
 e4.py
+env/
+.gitignore
