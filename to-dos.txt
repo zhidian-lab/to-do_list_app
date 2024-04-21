@@ -2,4 +2,7 @@ coco
 Ò»ücüc
 heytea
 lelecha
+<<<<<<< HEAD
 Sam
+=======
+>>>>>>> 9b9b73f6ebb12b94887d3c210b8f0088ff31da38
